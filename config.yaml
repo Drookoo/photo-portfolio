@@ -10,7 +10,7 @@ params:
   subtitle: Welcome. 
   copyright: All rights reserved. # todo: set your copyright type.
   author: Andrew Ku # todo: set your full name.
-  dontShowSource: false # please, do not do this :)
+  dontShowSource: true # please, do not do this :)
   portfolio:
     columns:
       desktop:

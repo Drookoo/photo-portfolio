@@ -10,8 +10,11 @@ hideDate: true
 
 ## About
 
-- Andrew Ku, or Drew Ku, was born and raised in New York City where he currently resides. He really likes to make thoughts happen and get chores done.
-- You can find building cloud infrastructure or wheeling options when he is not making art.   
+Andrew Ku, or Drew Ku, was born and raised in New York City where he currently resides. He really likes to make thoughts happen and get chores done.
+
+<br>
+
+You can find building cloud infrastructure or wheeling options when he is not making art.   
 
 
 <br>

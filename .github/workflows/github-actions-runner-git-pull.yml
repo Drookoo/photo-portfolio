@@ -1,0 +1,18 @@
+name: Trigger Git Pull on Downstream Runner
+on:
+  push:
+    branches:
+      - 'main'
+jobs:
+  auto-pull:
+    name: GitPullDownstream
+    if: github.repository == 'Drookoo/photo-portfolio'
+    runs-on: self-hosted
+    steps:
+      -
+        name: gitpull
+        run: |
+          git config --global --add safe.directory /home/andrew/photo-portfolio
+          git pull origin main
+        working-directory: /home/andrew/photo-portfolio
+

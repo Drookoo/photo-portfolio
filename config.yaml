@@ -14,6 +14,12 @@ params:
   portfolio:
     columns:
       desktop:
+        work: 3
+        street: 3
+        portrait: 3
+        scenery: 3
+        analog: 3
+        things: 3
         nature: 4
         archive: 6
         people: 2

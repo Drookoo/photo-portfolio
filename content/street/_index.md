@@ -1,6 +1,6 @@
 ---
 title: street
-url: street
+url: /tags/street
 ---
 
 <div align="center">

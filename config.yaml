@@ -71,8 +71,8 @@ menu:
     - name: people
       url: /tags/people/
       weight: 4
-    - name: landscape
-      url: /tags/landscape/
+    - name: scenery
+      url: /tags/scenery/
       weight: 5
     - name: analog
       url: /tags/analog/

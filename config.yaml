@@ -1,8 +1,8 @@
-baseURL: http://wafflesbox:1314 # todo: change site url.
+baseURL: http://drewku.com/ # todo: change site url.
 title: Andrew Ku # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
-googleAnalytics: '' # todo: set your analytics id.
+googleAnalytics: 'G-J081FZJYPL' # todo: set your analytics id.
 
 params:
   image: /images/banner.png

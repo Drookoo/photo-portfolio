@@ -1,7 +1,7 @@
 ---
 weight: 2
 images:
-- /images/cars/IMG_3709.jpg
+- /images/cars/IMG_3704.jpg
 title: Kei Truck in SoHo
 date: 2020-10-10
 tags:

@@ -1,14 +1,13 @@
 ---
 weight: 2
 images:
-- /images/running/2023-UA-half-apex.jpg
-title: 2023 United American NYRR Half Apex For Youth Racer
-date: 2023-03-19
+- /images/street/hotdog-truck-IMG_3709.jpg
+title: Hot Dog Cart Vendor by Columbus Circle
+date: 2020-10-11
 tags:
-- work # homepage
 - archive # all posts
 - people
-- running
+- street
 ---
 
 ## Markdown

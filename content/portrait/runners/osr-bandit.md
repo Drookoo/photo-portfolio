@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 1
 images:
 - /images/people/DSC04505.jpg
 title: Bandit Running Athlete at 2023 OSR Dad's Route

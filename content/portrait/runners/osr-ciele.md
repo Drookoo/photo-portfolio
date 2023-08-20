@@ -7,5 +7,4 @@ date: 2023-04-16
 tags:
 - archive # all posts
 - portrait
-- people
 ---

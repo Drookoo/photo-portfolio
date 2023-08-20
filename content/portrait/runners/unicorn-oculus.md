@@ -6,6 +6,5 @@ title: Smiling at the Oculus
 date: 2023-04-16
 tags:
 - archive # all posts
-- people
 - portrait
 ---

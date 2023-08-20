@@ -7,6 +7,7 @@ date: 2023-04-16
 tags:
 - archive # all posts
 - scenery
+- museum
 ---
 
 Taken during a venture to Dia Beacon. 

@@ -1,7 +1,7 @@
 ---
 weight: 2
 images:
-- /images/street/ilford-hp5-18.jpg
+- /images/scenery/ilford-hp5-18.jpg
 title: Manhattan Bridge from Dumbo
 date: 2023-08-12
 tags:

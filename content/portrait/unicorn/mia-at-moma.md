@@ -7,7 +7,6 @@ date: 2023-08-13
 tags:
 - archive # all posts
 - portrait
-- people
 - analog
 - ilford-hp5
 ---

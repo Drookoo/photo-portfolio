@@ -6,7 +6,7 @@ googleAnalytics: 'G-J081FZJYPL' # todo: set your analytics id.
 
 params:
   image: /images/banner.png
-  logo: solana-bot.png # todo: add your custom logo to static/
+  logo: profile.jpg # todo: add your custom logo to static/
   subtitle: Welcome. 
   copyright: All rights reserved. # todo: set your copyright type.
   author: Andrew Ku # todo: set your full name.

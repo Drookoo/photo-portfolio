@@ -8,6 +8,7 @@ tags:
 - archive # all posts
 - people
 - running
+- work
 ---
 
 ## Background

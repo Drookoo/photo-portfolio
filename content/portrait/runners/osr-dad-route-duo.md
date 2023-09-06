@@ -8,4 +8,5 @@ tags:
 - archive # all posts
 - portrait
 - people
+- work
 ---

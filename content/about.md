@@ -20,8 +20,7 @@ His favorite camera in his collection is a <a href="https://en.wikipedia.org/wik
 
 <br>
 
-You can him find building cloud infrastructure, wheeling options, or running when he is not making art.
-
+You can him find building cloud infrastructure, wheeling options, or running footraces when he is not making art.
 
 <br>
 <br>

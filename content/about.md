@@ -12,7 +12,11 @@ hideDate: true
 
 ## About
 
-Andrew Ku, or Drew Ku, is a photographer residing in New York City. He currently shoots digital with Sony and Canon, and he shoots film with Olympus, Canon and Kodak. 
+Andrew Ku, or Drew Ku, is a photographer residing in New York City. He is quick on foot and loves chasing unscripted moments.
+
+<br>
+
+His favorite camera in his collection is a <a href="https://en.wikipedia.org/wiki/Canonet_G-III_QL17/" target="_blank" rel="noopener noreferrer">Canonet QL17</a> last used by his Grandfather in the 80s.
 
 <br>
 
@@ -24,9 +28,9 @@ You can him find building cloud infrastructure, wheeling options, or running whe
 
 <div align="center">
 	<p>
-        Thank you for taking the time to visit and look around. 
+        Thank you for taking the time to look around. 
 	</p>
 	<p>
-		Come back soon.
+		Please come back soon.
 	</p>
 </div>

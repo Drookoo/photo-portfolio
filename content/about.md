@@ -8,13 +8,15 @@ hideExif: true
 hideDate: true
 ---
 
+![Andrew Ku](/about.jpg)
+
 ## About
 
-Andrew Ku, or Drew Ku, was born and raised in New York City where he currently resides. He really likes to make thoughts happen and get chores done.
+Andrew Ku, or Drew Ku, is a photographer residing in New York City. He currently shoots digital with Sony and Canon, and he shoots film with Olympus, Canon and Kodak. 
 
 <br>
 
-You can find building cloud infrastructure or wheeling options when he is not making art.   
+You can him find building cloud infrastructure, wheeling options, or running when he is not making art.
 
 
 <br>

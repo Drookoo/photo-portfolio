@@ -1,7 +1,7 @@
 ---
 weight: 2
 images:
-- /images/running/osr-brr-redhook-bossman.jpg
+- /images/people/osr-brr-redhook-bossman.jpg
 title: Going Live with OSR
 date: 2023-09-22
 tags:

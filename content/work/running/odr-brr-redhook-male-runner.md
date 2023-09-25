@@ -1,7 +1,7 @@
 ---
 weight: 2
 images:
-- /images/running/osr-brr-male-runner.jpg
+- /images/running/osr-brr-redhook-male-runner.jpg
 title: Orchard Street Runner Male
 date: 2023-09-22
 tags:

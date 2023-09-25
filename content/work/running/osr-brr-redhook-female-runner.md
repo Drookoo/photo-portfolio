@@ -1,7 +1,7 @@
 ---
 weight: 2
 images:
-- /images/running/osr-brr-female-runner.jpg
+- /images/running/osr-brr-redhook-female-runner.jpg
 title: Orchard Street Runner Female
 date: 2023-09-22
 tags:

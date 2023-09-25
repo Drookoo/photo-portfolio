@@ -1,7 +1,7 @@
 ---
 weight: 2
 images:
-- /images/scenery/osr-brr-redhook-bridgerunners.jpg
+- /images/scenery/osr-brr-redhook-bridgerunning.jpg
 title: Orchard Street Runners Bridge Running
 date: 2023-09-22
 tags:

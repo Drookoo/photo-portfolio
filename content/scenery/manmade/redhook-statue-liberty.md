@@ -7,6 +7,7 @@ date: 2023-10-22
 tags:
 - archive # all posts
 - scenery
+- analog
 ---
 
 Taken during the 2023 Red Hook Open Studios.

@@ -1,7 +1,7 @@
 ---
 weight: 2
 images:
-- /images/scenery/highline-3-bridges.jpg
+- /images/scenery/pigeons-port-authority.jpg
 title: Pigeons at Port Authority
 date: 2023-11-07
 tags:

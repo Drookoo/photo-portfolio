@@ -28,6 +28,9 @@ His favorite camera in his collection is a <a href="https://en.wikipedia.org/wik
 You can him find working with cloud technologies, wheeling options, or running footraces when he is not making art.
 
 <br>
+
+Email him at <a href="mailto:hello@drewku.com">hello@drewku.com</a>
+
 <br>
 
 <div align="center">

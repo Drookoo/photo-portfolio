@@ -5,6 +5,6 @@ url: work
 
 <div align="center">
 	<p>
-		I don't really do this for work.
+		these are the moments we live for.
 	</p>
 </div>

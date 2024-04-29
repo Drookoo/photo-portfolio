@@ -11,7 +11,7 @@ hideDate: true
 ![Andrew Ku](/about.jpg)
 <div align="center">
 	<p>
-        Andrew Ku
+        Andrew Ku in 2019
 	</p>
 </div>
 
@@ -29,15 +29,15 @@ You can him find working with cloud technologies, wheeling options, or running f
 
 <br>
 
-Email him at <a href="mailto:hello@drewku.com">hello@drewku.com</a>
+Reach him at <a href="mailto:hello@drewku.com">hello@drewku.com</a>
 
 <br>
 
 <div align="center">
 	<p>
-        Thank you for taking the time to look around. 
+        "Thank you for taking the time to look around. 
 	</p>
 	<p>
-		Please come back soon.
+		Please come back soon."
 	</p>
 </div>

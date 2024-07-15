@@ -1,4 +1,4 @@
-baseURL: http://drewku.com/ # todo: change site url.
+baseURL: https://an.drewku.com/ # todo: change site url.
 title: Andrew Ku # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
